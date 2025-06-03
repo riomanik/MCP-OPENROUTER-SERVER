@@ -187,7 +187,3 @@ Kontribusi disambut baik\! Jika kamu memiliki ide atau perbaikan, silakan:
 Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file [LICENSE](https://www.google.com/search?q=LICENSE) untuk detail lebih lanjut.
 
 -----
-
-**Dibuat dengan ❤️ oleh [Nama Kamu/Organisasi Kamu]**
-
-*(Jangan lupa untuk membuat file `LICENSE` (misalnya, salin teks Lisensi MIT ke dalamnya) dan mengganti `[Nama Kamu/Organisasi Kamu]` dan `https://repositori.kemdikbud.go.id/` di tempat yang sesuai.)*
